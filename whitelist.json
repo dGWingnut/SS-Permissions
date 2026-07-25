@@ -116,7 +116,14 @@
     490790668, -1, -2
   ],
   "WhitelistedMoveTab": {
-    "123": ["ParryThis", "NahParryThis", "UhhNo"],
-    "5077795305": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"]
+    "56197186": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"]
+    "138702372": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
+    "5077795305":  ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
+    "150284451":  ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "Teleport"],
+    "295153111": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
+    "1194055399": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
+    "68935175": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
+    "782166571": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
+    "3029297831": ["NahParryThis", "Death", "MapleHug", "Teleport"]
   }
 }
