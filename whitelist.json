@@ -116,7 +116,7 @@
     490790668, -1, -2
   ],
   "WhitelistedMoveTab": {
-    "56197186": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"]
+    "56197186": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
     "138702372": ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
     "5077795305":  ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "BOOM", "Teleport"],
     "150284451":  ["ParryThis", "NahParryThis", "Death", "UhhNo", "MapleHug", "Teleport"],
