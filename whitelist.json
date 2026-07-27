@@ -93,18 +93,19 @@
     "SwapPapyrus": [56197186, 138702372],
     "VenomSans": [56197186, 138702372, 3029297831, 80084613, 10095337976],
     "InkSansS": [56197186, 138702372, 3029297831, 80084613, 10095337976, 12841709],
-    "MewMew": [56197186, 138702372, 449542962, 782166571, 1194055399]
+    "MewMew": [56197186, 138702372, 449542962, 782166571, 1194055399],
+    "idutshane": [56197186, 138702372, 3029297831, 80084613, 10095337976]
   },
   "AdminCharacters": [
     "IDK", "Zamasu", "Mafioso", "Moth", "Dustdust", "Kali", "SMXSans",
     "Shinobi", "RoaringKnight", "UTSans", "KaliRedMist", "SolemnLament",
-    "VenomSans", "InkSansS", "SwapPapyrus", "MewMew"
+    "VenomSans", "InkSansS", "SwapPapyrus", "MewMew", "idutshane"
   ],
   "WIPCharacters": [],
   "KillBlacklisted": [
     "IDK", "Zamasu", "Mafioso", "Moth", "Dustdust", "SMXSans",
     "Goku", "IDKRework", "RTChara", "Shinobi", "UTSans", "RoaringKnight",
-    "KaliRedMist", "SolemnLament", "VenomSans", "InkSansS", "SwapPapyrus", "MewMew"
+    "KaliRedMist", "SolemnLament", "VenomSans", "InkSansS", "SwapPapyrus", "MewMew", "idutshane"
   ],
   "AgeBypass": [10095337976],
   "GamepassAccess": [
