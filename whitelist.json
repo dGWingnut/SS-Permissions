@@ -90,18 +90,19 @@
     "MewMew": [56197186, 138702372, 449542962, 782166571, 1194055399],
     "idutshane": [56197186, 138702372, 5077795305],
     "MinosPrime": [56197186, 138702372, 5077795305],
-    "BlindReaper": [5077795305]
+    "BlindReaper": [5077795305],
+    "SPDust": [56197186, 138702372, 5077795305],
   },
   "AdminCharacters": [
     "IDK", "Zamasu", "Mafioso", "Moth", "Dustdust", "Kali", "SMXSans",
     "Shinobi", "RoaringKnight", "UTSans", "KaliRedMist", "SolemnLament",
-    "VenomSans", "SwapPapyrus", "MewMew", "idutshane", "MinosPrime"
+    "VenomSans", "SwapPapyrus", "MewMew", "idutshane", "MinosPrime", "SPDust",
   ],
   "WIPCharacters": [],
   "KillBlacklisted": [
     "IDK", "Zamasu", "Mafioso", "Moth", "Dustdust", "SMXSans",
     "Goku", "IDKRework", "RTChara", "Shinobi", "UTSans", "RoaringKnight",
-    "KaliRedMist", "SolemnLament", "VenomSans", "InkSansS", "SwapPapyrus", "MewMew", "idutshane", "MinosPrime"
+    "KaliRedMist", "SolemnLament", "VenomSans", "InkSansS", "SwapPapyrus", "MewMew", "idutshane", "MinosPrime", "SPDust",
   ],
   "AgeBypass": [],
   "GamepassAccess": [
